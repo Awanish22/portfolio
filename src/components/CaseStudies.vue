@@ -2,7 +2,7 @@
 const caseStudies = [
   {
     id: 1,
-    title: 'Biltrax Platform: Construction Intelligence at Scale',
+    title: 'Construction Intelligence Platform: Data Analytics at Scale',
     problem: 'Building a construction intelligence platform from scratch to handle massive datasets of projects, leads, and user data. Needed to support consultants, contractors, and building material manufacturers with complex BI workflows. Initial architecture struggled with query performance and dashboard rendering times.',
     decisions: [
       'Built RESTful APIs with Laravel, implementing role-based access control and multi-tenant data isolation for secure data handling.',

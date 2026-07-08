@@ -4,7 +4,7 @@ const highlights = [
     icon: '🚀',
     metric: '10K+',
     label: 'Active Users Served',
-    description: 'Built and scaled the Biltrax platform from zero to production'
+    description: 'Built and scaled a production platform from zero to launch'
   },
   {
     icon: '⚡',

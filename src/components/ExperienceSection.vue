@@ -10,7 +10,7 @@ const experiences = [
         period: 'Jan 2025 – Present',
         title: 'Scalability, Stability & Advanced Development',
         achievements: [
-          'Developing new modules and enhancements focused on scalable BI and analytics features for the Biltrax platform.',
+          'Developing new modules and enhancements focused on scalable BI and analytics features for the construction intelligence platform.',
           'Working on backend architecture improvements using Laravel and Node.js to support growth and scalability.',
           'Optimizing frontend performance and user experience for large, data-driven dashboards.',
           'Supporting complex business use cases for consultants, contractors, and building material manufacturers.',
@@ -33,7 +33,7 @@ const experiences = [
         period: 'Dec 2022 – Dec 2023',
         title: 'Project Foundation & Core Development',
         achievements: [
-          'Contributed to building the Biltrax platform from scratch, working across both frontend and backend.',
+          'Contributed to building the construction intelligence platform from scratch, working across both frontend and backend.',
           'Developed RESTful APIs using Laravel for project data, leads, users, and role-based access control.',
           'Designed and implemented MySQL database schemas, relationships, and core business logic.',
           'Built responsive frontend interfaces using Vue.js, focused on dashboards and data-intensive views.',
